@@ -1,0 +1,12 @@
+{
+  "name": "af-sneakers-gateway",
+  "version": "1.0.0",
+  "main": "backend.js",
+  "scripts": {
+    "backend": "node backend.js",
+    "gateway": "node gateway.js"
+  },
+  "dependencies": {
+    "mysql2": "^3.22.0"
+  }
+}
